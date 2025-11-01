@@ -1,0 +1,8 @@
+[workspace]
+channels = ["conda-forge"]
+name = "MyGit"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[dependencies]
+python = "3.11.*"
